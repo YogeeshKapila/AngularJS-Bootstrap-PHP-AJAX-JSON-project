@@ -1,5 +1,7 @@
 # AngularJS-Bootstrap-PHP-AJAX-JSON-project
 
+LIVE DEMO URL: http://yogeeshkapila.us-west-2.elasticbeanstalk.com/
+
 FUNCTIONING
 
 >Designed an application using AngularJS framework, HTML and CSS at the front-end.
